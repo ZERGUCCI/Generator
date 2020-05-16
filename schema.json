@@ -1,0 +1,40 @@
+
+  {
+    "name": "CHARLIE AMEX",
+    "email": "",
+    "phone": "",
+    "sizes": ["Random"],
+    "modes": ["Fast"],
+    "taskAmount": 1,
+    "singleCheckout": true,
+    "billingDifferent": false,
+    "favorite": false,
+    "card": {
+      "number": "3713 0551 2951 025",
+      "expiryMonth": "04",
+      "expiryYear": "2024",
+      "cvv": "0922"
+    },
+    "paypal": { "email": null, "password": null },
+    "delivery": {
+      "firstName": "Charlie ",
+      "lastName": "Compton",
+      "address1": "QCTV 159 Glenwood ave",
+      "address2": null,
+      "zip": "04103",
+      "city": "Portland ",
+      "country": "United States",
+      "state": "Maine"
+    },
+    "billing": {
+      "firstName": "Charlie ",
+      "lastName": "Compton",
+      "address1": "159 glenwood ave",
+      "address2": null,
+      "zip": "04103",
+      "city": "Portland ",
+      "country": "United States",
+      "state": "Maine"
+    }
+  }
+
